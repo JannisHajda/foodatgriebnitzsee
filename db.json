@@ -1,0 +1,12 @@
+{
+  "mensa": {
+    "subscriber": [],
+    "subscribeMessage": "Du erhälst nun tägliche Informationen über das Mensa-Menü! Wenn du keine Nachrichten mehr erhalten möchtest, kannst du den Befehl /mensa erneut ausführen.",
+    "unsubscribeMessage": "Du erhälst nun keine Informationen mehr über das Mensa-Menü! Wenn du wieder Nachrichten erhalten möchtest, kannst du den Befehl /mensa erneut ausführen.",
+    "menu": []
+  },
+  "ulfs": {
+    "subscriber": [],
+    "menu": {}
+  }
+}
